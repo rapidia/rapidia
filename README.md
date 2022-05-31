@@ -2,7 +2,7 @@
 
 #### whoami
 * 🔭 Founder of [auto-async-wrap](https://github.com/naver/auto-async-wrap) and [pm2-logrotate-legacy-nodejs](https://github.com/rapidia/pm2-logrotate-legacy-nodejs).
-* 🌱 Contributor of [agendash](https://github.com/agenda/agendash), [eslint-config-naver](https://github.com/naver/eslint-config-naver) and [grunt-standard](https://github.com/EasyAsABC123/grunt-standard).
+* 🌱 Contributor of [redis-py](https://github.com/redis/redis-py), [agendash](https://github.com/agenda/agendash), [eslint-config-naver](https://github.com/naver/eslint-config-naver) and [grunt-standard](https://github.com/EasyAsABC123/grunt-standard).
 <!--
 **rapidia/rapidia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
